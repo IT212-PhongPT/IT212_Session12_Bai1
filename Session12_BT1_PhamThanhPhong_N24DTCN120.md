@@ -169,5 +169,3 @@ Trình bày 2 phần rõ ràng bằng heading Markdown: "## User Story" (dạng 
 ---
 
 ## FILE 03 — Ảnh chụp màn hình minh họa (Screenshot)
-
-*Phần này cần ảnh chụp màn hình thực tế đoạn chat với Antigravity — mình chưa có ảnh nào trong cuộc trò chuyện này để đính kèm. Bạn upload ảnh chụp màn hình cuộc hội thoại thực tế của bạn với Antigravity vào đây để hoàn thiện File 03 khi nộp bài.*
